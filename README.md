@@ -34,6 +34,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FLAiRistaken/FLAiRistaken/blob/output/snake.svg" alt="Snake animation" />
-
 ###

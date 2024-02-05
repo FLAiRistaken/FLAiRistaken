@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joe and I graduated from De Montfort University studying Computer Science in 2023. I'm currently seeking a Graduate Software Engineer role</h2>
+<h2 align="left">Hi 👋! My name is Joe and I studied Computer Science. I'm currently seeking a Graduate Software Engineer role</h2>
 
 ###
 

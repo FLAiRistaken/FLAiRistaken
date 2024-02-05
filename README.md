@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joe and I'm currently a 3rd year Computer Science student, from Leicester.</h2>
+<h2 align="left">Hi 👋! My name is Joe and I graduated from De Montfort University studying Computer Science in 2023. I'm currently seeking a Graduate Software Engineer role</h2>
 
 ###
 
